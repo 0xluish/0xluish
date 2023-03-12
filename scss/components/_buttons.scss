@@ -1,0 +1,19 @@
+#botonesHome{
+    display: flex;
+    overflow: hidden;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    button{
+        width: 200px;
+        height: auto;
+        margin: 10px;
+        a{
+            color: black;
+            text-decoration: none;
+            font-family: 'Yaldevi', sans-serif;
+            font-size: medium;
+            margin: 14px 16px;
+        }
+    }
+}

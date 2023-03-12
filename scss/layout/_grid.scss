@@ -1,0 +1,20 @@
+#gridHome{
+    display: grid;
+    grid-template-areas: 
+    "headerHome"
+    "botonesHome"
+    "footerHome";
+    grid-template-rows: 10vh 75vh 25vh;
+}
+
+header#headerHome{
+    grid-area: headerHome;
+}
+
+section#botonesHome{
+    grid-area: botonesHome;
+}
+
+footer#footerHome{
+    grid-area: footerHome;
+}
