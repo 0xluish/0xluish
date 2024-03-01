@@ -42,9 +42,11 @@ My interest on dev came when I knew Blockchain technology and all its real appli
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">
     </a>
     <a href="https://wa.me/5215523284516?text=Hi%20Luis!%20I%20saw%20your%20GitHub%20profile">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" title="WhatsApp" alt="WhatsApp" width="40" height="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" title="WhatsApp" alt="WhatsApp" width="40" height="40">
     </a>
-    
+    <a href="mailto:luishsolis@pm.me">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="Email" alt="Email" width="40" height="40">
+    </a>
 </div>
 
 <h1 id="Español">Español</h1>
